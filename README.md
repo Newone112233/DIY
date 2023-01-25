@@ -1,5 +1,6 @@
 # DIY
 https://www.youtube.com/watch?v=-za74yGA6GM
+
 Objects:  2 x Label 
 
      Label1->Caption = "Bored with playing, start programming";
